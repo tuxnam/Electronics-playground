@@ -21,12 +21,11 @@ The first "clock" is configured as an astable oscillator.
 
 (ignore the blue wire going from pin 4, its for part 3 of the clock!)
 
-![](https://github.com/tuxnam/Electronics-playground/blob/main/BenEater-8Bit-Project/8Bit-Clock-Part1-Pic1.jpg)
+<img src="https://github.com/tuxnam/Electronics-playground/blob/main/BenEater-8Bit-Project/8Bit-Clock-Part1-Pic1.jpg" width=50% />
 
-![](https://github.com/tuxnam/Electronics-playground/blob/main/BenEater-8Bit-Project/8Bit-Clock-Part1-Pic2.jpg)
+<img src="https://github.com/tuxnam/Electronics-playground/blob/main/BenEater-8Bit-Project/8Bit-Clock-Part1-Pic2.jpg" width=50% />
 
-![](https://github.com/tuxnam/Electronics-playground/blob/main/BenEater-8Bit-Project/8Bit-Clock-Part1-Pic3.jpg)
-
+<img src="https://github.com/tuxnam/Electronics-playground/blob/main/BenEater-8Bit-Project/8Bit-Clock-Part1-Pic3.jpg" width=50% />
 
 **Components not represented on the schema:**
 - Resistors on potentiometer input/output (input is used to protect voltage short, and output is used to protect pin 7 from direct dicharge by the capacitor nearby)
