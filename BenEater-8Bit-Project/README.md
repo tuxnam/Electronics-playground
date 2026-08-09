@@ -19,7 +19,7 @@ The first "clock" is configured as an astable oscillator.
 
 #### Pictures of my breadboard
 
-(ignore the blue wire going from pin 4, its for part 3 of the clock!)
+(ignore the blue wire going from pin 3, its for part 3 of the clock!)
 
 <img src="8Bit-Clock-Part1-Pic1.jpg" width=50% />
 
@@ -31,6 +31,14 @@ The first "clock" is configured as an astable oscillator.
 - Resistors on potentiometer input/output (input is used to protect voltage short, and output is used to protect pin 7 from direct dicharge by the capacitor nearby)
 - Ceramic Capacitors (one sits near power supply and the other one on the pin 5 of the 555 chip)
 
+#### Small Tips
+
+- Ben changes the circuit between the beginning of the video and the end, and explains why
+- The components can slightly differs from Ben's videos (the potentiometer pins being offset vs inline) and therefore alters slightly your version of the clock
+- Yellow LEDs require more voltage than red LEDs but less than blue ones, so changing the LED colour means you may need to adjust the resistor to prevent the LED from being too dim or burning out. See references for more in-depth understanding on diodes.
+- The resistors you chose are important. They will either avoid burning your LEDs, chip or other components or they will control the "timing". 
+- Feeling lost in the colours of your resistors? See [this](https://www.digikey.co.uk/en/resources/conversion-calculators/conversion-calculator-resistor-color-code)! 
+  
 ### References
 
 - Ben's 8-bit computer project - [8-Bit computer project](https://eater.net/8bit)
@@ -39,5 +47,8 @@ The first "clock" is configured as an astable oscillator.
 - [How capacitors work](https://www.build-electronic-circuits.com/how-does-a-capacitor-work/)
 - [How breadboards work](https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-breadboard)
 - [How current flow](https://www.albert.io/blog/how-does-electricity-flow/)
-- The e-shop for the kits - [eShop](https://eater.net/8bit/kits) 
+- [All about Leds](https://electronicsclub.info/leds.htm#:~:text=RGB%20LEDs%20contain,to%20limit%20the%20current.)
+- [Light emitting diodes and physics behind it](https://en.wikipedia.org/wiki/Light-emitting_diode_physics)
+- The e-shop for the kits - [eShop](https://eater.net/8bit/kits)
+- [https://www.digikey.co.uk/en/resources/online-conversion-calculators](Online calculators for electronics)
 
