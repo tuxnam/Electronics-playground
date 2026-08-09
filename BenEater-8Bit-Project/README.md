@@ -9,7 +9,9 @@ I also document a few references which allow to expand knowledge of the componen
 
 *The computer's clock is used to synchronize all operations. The clock we're building is based on the popular 555 timer IC.* ([source](https://eater.net/8bit/clock))
 
-### Part 1.1 - The timer or astable circuit 
+### Part 1.1 - The astable circuit
+
+*Astable means that it continuously changes state (on/off)*
 
 The first "clock" is configured as an astable oscillator.
 
@@ -51,4 +53,12 @@ The first "clock" is configured as an astable oscillator.
 - [Light emitting diodes and physics behind it](https://en.wikipedia.org/wiki/Light-emitting_diode_physics)
 - The e-shop for the kits - [eShop](https://eater.net/8bit/kits)
 - [https://www.digikey.co.uk/en/resources/online-conversion-calculators](Online calculators for electronics)
+
+### Part 2 - The monostable circuit
+
+*Monostable means that it persists in a state until trigger*
+
+#### Circuit
+
+<img src="https://github.com/tuxnam/Electronics-playground/blob/main/BenEater-8Bit-Project/Circuit-BenEater-8Bit-Clock-Part-2.png" width=50% />
 
