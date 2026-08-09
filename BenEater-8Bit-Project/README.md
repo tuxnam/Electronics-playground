@@ -21,13 +21,9 @@ The first "clock" is configured as an astable oscillator.
 
 #### Pictures of my breadboard
 
-(ignore the blue wire going from pin 3, its for part 3 of the clock!)
-
 <img src="8Bit-Clock-Part1-Pic1.jpg" width=50% />
 
 <img src="8Bit-Clock-Part1-Pic2.jpg" width=50% />
-
-<img src="8Bit-Clock-Part1-Pic3.jpg" width=50% />
 
 **Components not represented on the schema:**
 - Resistors on potentiometer input/output (input is used to protect voltage short, and output is used to protect pin 7 from direct dicharge by the capacitor nearby)
@@ -62,3 +58,8 @@ The first "clock" is configured as an astable oscillator.
 
 <img src="https://github.com/tuxnam/Electronics-playground/blob/main/BenEater-8Bit-Project/Circuit-BenEater-8Bit-Clock-Part-2.png" width=50% />
 
+#### Pictures of my breadboard
+
+<img src="8Bit-Clock-Part2-Pic1.jpg" width=50% />
+
+<img src="8Bit-Clock-Part2-Pic1.jpg" width=50% />
