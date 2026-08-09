@@ -15,14 +15,16 @@ The first "clock" is configured as an astable oscillator.
 
 #### Circuit
 
-![]([https://github.com/tuxnam/Electronics-playground/blob/main/BenEater-8Bit-Project/8Bit-Clock-Part1-Pic1.jpg](https://github.com/tuxnam/Electronics-playground/blob/main/BenEater-8Bit-Project/Circuit-BenEater-8Bit-Clock-Part-1.png)
+![](https://github.com/tuxnam/Electronics-playground/blob/main/BenEater-8Bit-Project/Circuit-BenEater-8Bit-Clock-Part-1.png)
 
 #### Pictures of my breadboard
 
 (ignore the blue wire going from pin 4, its for part 3 of the clock!)
 
 ![](https://github.com/tuxnam/Electronics-playground/blob/main/BenEater-8Bit-Project/8Bit-Clock-Part1-Pic1.jpg)
+
 ![](https://github.com/tuxnam/Electronics-playground/blob/main/BenEater-8Bit-Project/8Bit-Clock-Part1-Pic2.jpg)
+
 ![](https://github.com/tuxnam/Electronics-playground/blob/main/BenEater-8Bit-Project/8Bit-Clock-Part1-Pic3.jpg)
 
 
