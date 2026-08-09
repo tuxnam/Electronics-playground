@@ -62,4 +62,4 @@ The first "clock" is configured as an astable oscillator.
 
 <img src="8Bit-Clock-Part2-Pic1.jpg" width=50% />
 
-<img src="8Bit-Clock-Part2-Pic1.jpg" width=50% />
+<img src="8Bit-Clock-Part2-Pic2.jpg" width=50% />
