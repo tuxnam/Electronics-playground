@@ -15,7 +15,7 @@ The first "clock" is configured as an astable oscillator.
 
 #### Circuit
 
-![](https://github.com/tuxnam/Electronics-playground/blob/main/BenEater-8Bit-Project/Circuit-BenEater-8Bit-Clock-Part-1.png)
+<img src="https://github.com/tuxnam/Electronics-playground/blob/main/BenEater-8Bit-Project/Circuit-BenEater-8Bit-Clock-Part-1.png" width=50% />
 
 #### Pictures of my breadboard
 
