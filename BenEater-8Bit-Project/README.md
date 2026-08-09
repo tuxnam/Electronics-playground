@@ -2,7 +2,7 @@
 
 ### Part 1 - The Clock 
 
-*The computer's clock is used to synchronize all operations. The clock we're building is based on the popular 555 timer IC.* ((source)[https://eater.net/8bit/clock])
+*The computer's clock is used to synchronize all operations. The clock we're building is based on the popular 555 timer IC.* ([source](https://eater.net/8bit/clock))
 
 #### Part 1.1 - The timer or astable circuit 
 
